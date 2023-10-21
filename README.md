@@ -1,2 +1,2 @@
 # recipesdraft
-draft version of recipes.
+draft version of potential recipes blog
